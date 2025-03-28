@@ -1,4 +1,4 @@
-Feature: Login Functionality
+Feature: Login Functionalityy
 
 Scenario: Login with valid credentials
     Given the user is on the OrangeHRM login page
